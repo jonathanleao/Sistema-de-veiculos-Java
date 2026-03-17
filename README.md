@@ -114,7 +114,7 @@ Este projeto foi criado com o objetivo de **praticar conceitos fundamentais de P
 
 ## 👨‍💻 Autor
 
-**Jonas**
+**Jonathan Leão de Oliveira Júnior**
 
 Projeto desenvolvido para estudos de **Programação Orientada a Objetos em Java**.
 
